@@ -8,7 +8,7 @@
 
 :octocat: Java Developer
 <br>
-:computer: Spring Framework
+:computer: Spring Boot
 <br>
 :whale: Docker
 
